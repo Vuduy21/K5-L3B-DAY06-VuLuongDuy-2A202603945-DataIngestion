@@ -8,6 +8,40 @@ Biến tài liệu thành kho tri thức có thể truy xuất cho AI agent, r�
 |---|---|---|
 | Tối thiểu **30 trang nội dung** | Tối thiểu **3 cấu hình** | Tối thiểu **20 câu hỏi** |
 
+## Bài làm của học viên (VuLuongDuy · 2A202603945 · L3B)
+
+**Corpus:** Luật Trật tự, an toàn giao thông đường bộ 36/2024/QH15 và Nghị định 168/2024/NĐ-CP, bản gốc đăng Công báo, 209 trang nội dung ([data/manifest.json](data/manifest.json): URL, SHA-256, quy tắc đếm trang). PDF **không commit**, tải bằng lệnh bên dưới. Văn bản là bản gốc, chưa hợp nhất các sửa đổi về sau.
+**Model / store:** `baai/bge-m3` qua OpenRouter (1024 chiều); PostgreSQL 16 + pgvector 0.8.7 (cosine, exact search). Python 3.11.9.
+**Benchmark:** [benchmark/questions.json](benchmark/questions.json) (20 câu: 15 dev / 5 test, 4 câu filter), tiêu chí chọn chiến lược chốt trước khi chạy: [benchmark/SELECTION_CRITERION.md](benchmark/SELECTION_CRITERION.md).
+
+### Chạy lại (Windows PowerShell, từ thư mục `starter/`)
+
+```powershell
+python -m venv .venv; .\.venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt
+Copy-Item .env.example .env        # điền OPENROUTER_API_KEY và EMBEDDING_MODEL=baai/bge-m3 (không commit .env)
+docker compose -p day6_student_starter up -d --wait
+python scripts\check_setup.py
+python scripts\build_manifest.py --download   # tải 4 PDF từ Công báo, tạo lại data/manifest.json
+python scripts\verify_benchmark.py            # kiểm tra evidence nằm đúng trang gold (20/20)
+python -m src.run ingest                      # chunk A và B, embed, lưu pgvector (nạp lại không nhân đôi)
+python -m src.run evaluate                    # dev
+python -m src.run evaluate --split test       # test: chỉ chạy sau khi đã chốt cấu hình
+python scripts\make_audit_sheets.py           # bảng chấm thủ công (đã giấu chiến lược)
+python scripts\check_metadata_audit.py --write-scored   # đối chiếu metadata với PDF
+python scripts\score_audit.py                 # tổng hợp coherence / metadata / grounding
+```
+
+### Cấu hình và kết quả
+
+| | Chunk | Dev Hit@1 / Hit@3 | Test Hit@1 / Hit@3 |
+|---|---|---|---|
+| A | cố định 500 ký tự, overlap 50 | 10/15 · 12/15 | 3/5 · 3/5 |
+| B | theo cấu trúc, tối đa 800 | 11/15 · 12/15 | 3/5 · 4/5 |
+| C | như B + filter `document_type` khi câu hỏi có filter | 12/15 · 13/15 | 3/5 · 4/5 |
+
+Mẫu nhỏ (15 dev, 5 test) chỉ để minh họa, không kết luận chiến lược tốt nhất. Trace, thống kê nạp, bảng chấm: `starter/results/` (xem `starter/results/audit/`). Nhật ký thí nghiệm: [artifacts/experiment_log.csv](artifacts/experiment_log.csv). Chi phí embed toàn bộ pipeline dưới $0,01 (lấy từ `usage.cost` do OpenRouter trả về).
+
 ## Bắt đầu nhanh
 
 Dùng [starter PostgreSQL + pgvector](starter/README.md) để dựng database và hoàn thiện các hàm TODO, hoặc tự chọn vector store tương đương. Starter chỉ là khung: **bạn tự hiện thực pipeline và benchmark**.

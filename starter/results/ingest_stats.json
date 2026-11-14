@@ -1,0 +1,83 @@
+{
+  "model": "baai/bge-m3",
+  "dimensions": 1024,
+  "ingestion_log": {
+    "skipped_pages": [
+      {
+        "source_id": "LUAT-36-2024-P1",
+        "page": 21,
+        "chars": 0
+      },
+      {
+        "source_id": "ND-168-2024-P1",
+        "page": 95,
+        "chars": 0
+      }
+    ],
+    "errors": [],
+    "pages_loaded": 209,
+    "chars_loaded": 422969
+  },
+  "load_seconds": 8.09,
+  "strategies": {
+    "A": {
+      "config": {
+        "chunker": "fixed_size",
+        "size": 500,
+        "overlap": 50
+      },
+      "chunk_count": 1022,
+      "length_chars": {
+        "min": 51,
+        "p25": 499.0,
+        "median": 499.0,
+        "p75": 500.0,
+        "mean": 453.3,
+        "max": 500,
+        "total_chars": 463230
+      },
+      "embedded_this_run": 0,
+      "skipped_unchanged": 1022,
+      "upserted": 0,
+      "deleted_obsolete": 0,
+      "rows_in_store": 1022,
+      "chunk_seconds": 0.01,
+      "embed_seconds": 0.0,
+      "tokens_this_run": 0,
+      "cost_usd_this_run": 0.0
+    },
+    "B": {
+      "config": {
+        "chunker": "by_paragraph",
+        "max_size": 800
+      },
+      "chunk_count": 767,
+      "length_chars": {
+        "min": 21,
+        "p25": 403.0,
+        "median": 621.0,
+        "p75": 722.0,
+        "mean": 550.7,
+        "max": 800,
+        "total_chars": 422411
+      },
+      "embedded_this_run": 0,
+      "skipped_unchanged": 767,
+      "upserted": 0,
+      "deleted_obsolete": 0,
+      "rows_in_store": 767,
+      "chunk_seconds": 0.01,
+      "embed_seconds": 0.0,
+      "tokens_this_run": 0,
+      "cost_usd_this_run": 0.0
+    }
+  },
+  "embedder_usage_total": {
+    "requests": 1,
+    "prompt_tokens": 6,
+    "total_tokens": 6,
+    "cost_usd": 6e-08,
+    "cost_reported": true,
+    "seconds": 1.1856471998617053
+  }
+}

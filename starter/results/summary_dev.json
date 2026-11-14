@@ -1,0 +1,62 @@
+{
+  "A": {
+    "dev": {
+      "n": 15,
+      "hit_at_1": "10/15",
+      "hit_at_3": "12/15",
+      "filter_compliant": "N/A"
+    },
+    "test": {
+      "n": 0,
+      "hit_at_1": "0/0",
+      "hit_at_3": "0/0",
+      "filter_compliant": "N/A"
+    },
+    "all": {
+      "n": 15,
+      "hit_at_1": "10/15",
+      "hit_at_3": "12/15",
+      "filter_compliant": "N/A"
+    }
+  },
+  "B": {
+    "dev": {
+      "n": 15,
+      "hit_at_1": "11/15",
+      "hit_at_3": "12/15",
+      "filter_compliant": "N/A"
+    },
+    "test": {
+      "n": 0,
+      "hit_at_1": "0/0",
+      "hit_at_3": "0/0",
+      "filter_compliant": "N/A"
+    },
+    "all": {
+      "n": 15,
+      "hit_at_1": "11/15",
+      "hit_at_3": "12/15",
+      "filter_compliant": "N/A"
+    }
+  },
+  "C": {
+    "dev": {
+      "n": 15,
+      "hit_at_1": "12/15",
+      "hit_at_3": "13/15",
+      "filter_compliant": "3/3"
+    },
+    "test": {
+      "n": 0,
+      "hit_at_1": "0/0",
+      "hit_at_3": "0/0",
+      "filter_compliant": "N/A"
+    },
+    "all": {
+      "n": 15,
+      "hit_at_1": "12/15",
+      "hit_at_3": "13/15",
+      "filter_compliant": "3/3"
+    }
+  }
+}

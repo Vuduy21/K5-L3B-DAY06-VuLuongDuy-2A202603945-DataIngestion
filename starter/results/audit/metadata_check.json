@@ -1,0 +1,1127 @@
+[
+  {
+    "label_id": "MET-671365",
+    "question_id": "Q16",
+    "strategy": "A",
+    "rank": 1,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "ND-168-2024-P1",
+      "page": 23,
+      "article": 7,
+      "chapter": "II",
+      "document_type": "Nghị định"
+    },
+    "pdf": {
+      "article": 7,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-193510",
+    "question_id": "Q16",
+    "strategy": "A",
+    "rank": 2,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "ND-168-2024-P1",
+      "page": 30,
+      "article": 8,
+      "chapter": "II",
+      "document_type": "Nghị định"
+    },
+    "pdf": {
+      "article": 8,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-591081",
+    "question_id": "Q16",
+    "strategy": "A",
+    "rank": 3,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "ND-168-2024-P1",
+      "page": 17,
+      "article": 6,
+      "chapter": "II",
+      "document_type": "Nghị định"
+    },
+    "pdf": {
+      "article": 6,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-374591",
+    "question_id": "Q17",
+    "strategy": "A",
+    "rank": 1,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "ND-168-2024-P1",
+      "page": 23,
+      "article": 7,
+      "chapter": "II",
+      "document_type": "Nghị định"
+    },
+    "pdf": {
+      "article": 7,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": true
+  },
+  {
+    "label_id": "MET-863248",
+    "question_id": "Q17",
+    "strategy": "A",
+    "rank": 2,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "ND-168-2024-P1",
+      "page": 17,
+      "article": 6,
+      "chapter": "II",
+      "document_type": "Nghị định"
+    },
+    "pdf": {
+      "article": 6,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-186053",
+    "question_id": "Q17",
+    "strategy": "A",
+    "rank": 3,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "ND-168-2024-P1",
+      "page": 16,
+      "article": 6,
+      "chapter": "II",
+      "document_type": "Nghị định"
+    },
+    "pdf": {
+      "article": 6,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-672918",
+    "question_id": "Q18",
+    "strategy": "A",
+    "rank": 1,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "LUAT-36-2024-P1",
+      "page": 17,
+      "article": 18,
+      "chapter": "II",
+      "document_type": "Luật"
+    },
+    "pdf": {
+      "article": 18,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": true
+  },
+  {
+    "label_id": "MET-940227",
+    "question_id": "Q18",
+    "strategy": "A",
+    "rank": 2,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "LUAT-36-2024-P1",
+      "page": 16,
+      "article": 17,
+      "chapter": "II",
+      "document_type": "Luật"
+    },
+    "pdf": {
+      "article": 17,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-440240",
+    "question_id": "Q18",
+    "strategy": "A",
+    "rank": 3,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "LUAT-36-2024-P1",
+      "page": 17,
+      "article": 18,
+      "chapter": "II",
+      "document_type": "Luật"
+    },
+    "pdf": {
+      "article": 18,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-932437",
+    "question_id": "Q19",
+    "strategy": "A",
+    "rank": 1,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "ND-168-2024-P2",
+      "page": 26,
+      "article": 50,
+      "chapter": "III",
+      "document_type": "Nghị định"
+    },
+    "pdf": {
+      "article": 50,
+      "chapter": "III"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": true
+  },
+  {
+    "label_id": "MET-660404",
+    "question_id": "Q19",
+    "strategy": "A",
+    "rank": 2,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "ND-168-2024-P2",
+      "page": 29,
+      "article": 51,
+      "chapter": "III",
+      "document_type": "Nghị định"
+    },
+    "pdf": {
+      "article": 51,
+      "chapter": "III"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-147937",
+    "question_id": "Q19",
+    "strategy": "A",
+    "rank": 3,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "LUAT-36-2024-P2",
+      "page": 33,
+      "article": 58,
+      "chapter": "IV",
+      "document_type": "Luật"
+    },
+    "pdf": {
+      "article": 58,
+      "chapter": "IV"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-077712",
+    "question_id": "Q20",
+    "strategy": "A",
+    "rank": 1,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "LUAT-36-2024-P1",
+      "page": 13,
+      "article": 12,
+      "chapter": "II",
+      "document_type": "Luật"
+    },
+    "pdf": {
+      "article": 12,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-895688",
+    "question_id": "Q20",
+    "strategy": "A",
+    "rank": 2,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "LUAT-36-2024-P1",
+      "page": 13,
+      "article": 12,
+      "chapter": "II",
+      "document_type": "Luật"
+    },
+    "pdf": {
+      "article": 12,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-230387",
+    "question_id": "Q20",
+    "strategy": "A",
+    "rank": 3,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "LUAT-36-2024-P1",
+      "page": 13,
+      "article": 12,
+      "chapter": "II",
+      "document_type": "Luật"
+    },
+    "pdf": {
+      "article": 12,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-118336",
+    "question_id": "Q16",
+    "strategy": "B",
+    "rank": 1,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "LUAT-36-2024-P1",
+      "page": 7,
+      "article": 9,
+      "chapter": "I",
+      "document_type": "Luật"
+    },
+    "pdf": {
+      "article": 9,
+      "chapter": "I"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": true
+  },
+  {
+    "label_id": "MET-381180",
+    "question_id": "Q16",
+    "strategy": "B",
+    "rank": 2,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "ND-168-2024-P1",
+      "page": 17,
+      "article": 6,
+      "chapter": "II",
+      "document_type": "Nghị định"
+    },
+    "pdf": {
+      "article": 6,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-552020",
+    "question_id": "Q16",
+    "strategy": "B",
+    "rank": 3,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "ND-168-2024-P1",
+      "page": 16,
+      "article": 6,
+      "chapter": "II",
+      "document_type": "Nghị định"
+    },
+    "pdf": {
+      "article": 6,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-670580",
+    "question_id": "Q17",
+    "strategy": "B",
+    "rank": 1,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "ND-168-2024-P1",
+      "page": 32,
+      "article": 9,
+      "chapter": "II",
+      "document_type": "Nghị định"
+    },
+    "pdf": {
+      "article": 9,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-350278",
+    "question_id": "Q17",
+    "strategy": "B",
+    "rank": 2,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "ND-168-2024-P1",
+      "page": 23,
+      "article": 7,
+      "chapter": "II",
+      "document_type": "Nghị định"
+    },
+    "pdf": {
+      "article": 7,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": true
+  },
+  {
+    "label_id": "MET-712812",
+    "question_id": "Q17",
+    "strategy": "B",
+    "rank": 3,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "ND-168-2024-P1",
+      "page": 17,
+      "article": 6,
+      "chapter": "II",
+      "document_type": "Nghị định"
+    },
+    "pdf": {
+      "article": 6,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-854601",
+    "question_id": "Q18",
+    "strategy": "B",
+    "rank": 1,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "LUAT-36-2024-P1",
+      "page": 17,
+      "article": 18,
+      "chapter": "II",
+      "document_type": "Luật"
+    },
+    "pdf": {
+      "article": 18,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": true
+  },
+  {
+    "label_id": "MET-146920",
+    "question_id": "Q18",
+    "strategy": "B",
+    "rank": 2,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "LUAT-36-2024-P2",
+      "page": 2,
+      "article": 25,
+      "chapter": "II",
+      "document_type": "Luật"
+    },
+    "pdf": {
+      "article": 25,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-858199",
+    "question_id": "Q18",
+    "strategy": "B",
+    "rank": 3,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "ND-168-2024-P1",
+      "page": 26,
+      "article": 8,
+      "chapter": "II",
+      "document_type": "Nghị định"
+    },
+    "pdf": {
+      "article": 8,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-458991",
+    "question_id": "Q19",
+    "strategy": "B",
+    "rank": 1,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "ND-168-2024-P2",
+      "page": 26,
+      "article": 50,
+      "chapter": "III",
+      "document_type": "Nghị định"
+    },
+    "pdf": {
+      "article": 50,
+      "chapter": "III"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": true
+  },
+  {
+    "label_id": "MET-295320",
+    "question_id": "Q19",
+    "strategy": "B",
+    "rank": 2,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "ND-168-2024-P2",
+      "page": 29,
+      "article": 51,
+      "chapter": "III",
+      "document_type": "Nghị định"
+    },
+    "pdf": {
+      "article": 51,
+      "chapter": "III"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-184745",
+    "question_id": "Q19",
+    "strategy": "B",
+    "rank": 3,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "LUAT-36-2024-P2",
+      "page": 33,
+      "article": 58,
+      "chapter": "IV",
+      "document_type": "Luật"
+    },
+    "pdf": {
+      "article": 58,
+      "chapter": "IV"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-394141",
+    "question_id": "Q20",
+    "strategy": "B",
+    "rank": 1,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "LUAT-36-2024-P1",
+      "page": 13,
+      "article": 12,
+      "chapter": "II",
+      "document_type": "Luật"
+    },
+    "pdf": {
+      "article": 12,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-770162",
+    "question_id": "Q20",
+    "strategy": "B",
+    "rank": 2,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "LUAT-36-2024-P1",
+      "page": 13,
+      "article": 12,
+      "chapter": "II",
+      "document_type": "Luật"
+    },
+    "pdf": {
+      "article": 12,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-277673",
+    "question_id": "Q20",
+    "strategy": "B",
+    "rank": 3,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "ND-168-2024-P1",
+      "page": 20,
+      "article": 7,
+      "chapter": "II",
+      "document_type": "Nghị định"
+    },
+    "pdf": {
+      "article": 7,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-155510",
+    "question_id": "Q16",
+    "strategy": "C",
+    "rank": 1,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": 1,
+    "stored": {
+      "source_id": "LUAT-36-2024-P1",
+      "page": 7,
+      "article": 9,
+      "chapter": "I",
+      "document_type": "Luật"
+    },
+    "pdf": {
+      "article": 9,
+      "chapter": "I"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": true
+  },
+  {
+    "label_id": "MET-236730",
+    "question_id": "Q16",
+    "strategy": "C",
+    "rank": 2,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": 1,
+    "stored": {
+      "source_id": "LUAT-36-2024-P2",
+      "page": 34,
+      "article": 59,
+      "chapter": "IV",
+      "document_type": "Luật"
+    },
+    "pdf": {
+      "article": 59,
+      "chapter": "IV"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-188666",
+    "question_id": "Q16",
+    "strategy": "C",
+    "rank": 3,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": 1,
+    "stored": {
+      "source_id": "LUAT-36-2024-P1",
+      "page": 8,
+      "article": 9,
+      "chapter": "I",
+      "document_type": "Luật"
+    },
+    "pdf": {
+      "article": 9,
+      "chapter": "I"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-157651",
+    "question_id": "Q17",
+    "strategy": "C",
+    "rank": 1,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "ND-168-2024-P1",
+      "page": 32,
+      "article": 9,
+      "chapter": "II",
+      "document_type": "Nghị định"
+    },
+    "pdf": {
+      "article": 9,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-443104",
+    "question_id": "Q17",
+    "strategy": "C",
+    "rank": 2,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "ND-168-2024-P1",
+      "page": 23,
+      "article": 7,
+      "chapter": "II",
+      "document_type": "Nghị định"
+    },
+    "pdf": {
+      "article": 7,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": true
+  },
+  {
+    "label_id": "MET-500569",
+    "question_id": "Q17",
+    "strategy": "C",
+    "rank": 3,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "ND-168-2024-P1",
+      "page": 17,
+      "article": 6,
+      "chapter": "II",
+      "document_type": "Nghị định"
+    },
+    "pdf": {
+      "article": 6,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-445299",
+    "question_id": "Q18",
+    "strategy": "C",
+    "rank": 1,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "LUAT-36-2024-P1",
+      "page": 17,
+      "article": 18,
+      "chapter": "II",
+      "document_type": "Luật"
+    },
+    "pdf": {
+      "article": 18,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": true
+  },
+  {
+    "label_id": "MET-374000",
+    "question_id": "Q18",
+    "strategy": "C",
+    "rank": 2,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "LUAT-36-2024-P2",
+      "page": 2,
+      "article": 25,
+      "chapter": "II",
+      "document_type": "Luật"
+    },
+    "pdf": {
+      "article": 25,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-409659",
+    "question_id": "Q18",
+    "strategy": "C",
+    "rank": 3,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "ND-168-2024-P1",
+      "page": 26,
+      "article": 8,
+      "chapter": "II",
+      "document_type": "Nghị định"
+    },
+    "pdf": {
+      "article": 8,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-890466",
+    "question_id": "Q19",
+    "strategy": "C",
+    "rank": 1,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "ND-168-2024-P2",
+      "page": 26,
+      "article": 50,
+      "chapter": "III",
+      "document_type": "Nghị định"
+    },
+    "pdf": {
+      "article": 50,
+      "chapter": "III"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": true
+  },
+  {
+    "label_id": "MET-157923",
+    "question_id": "Q19",
+    "strategy": "C",
+    "rank": 2,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "ND-168-2024-P2",
+      "page": 29,
+      "article": 51,
+      "chapter": "III",
+      "document_type": "Nghị định"
+    },
+    "pdf": {
+      "article": 51,
+      "chapter": "III"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-348755",
+    "question_id": "Q19",
+    "strategy": "C",
+    "rank": 3,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "LUAT-36-2024-P2",
+      "page": 33,
+      "article": 58,
+      "chapter": "IV",
+      "document_type": "Luật"
+    },
+    "pdf": {
+      "article": 58,
+      "chapter": "IV"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-370635",
+    "question_id": "Q20",
+    "strategy": "C",
+    "rank": 1,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "LUAT-36-2024-P1",
+      "page": 13,
+      "article": 12,
+      "chapter": "II",
+      "document_type": "Luật"
+    },
+    "pdf": {
+      "article": 12,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-634999",
+    "question_id": "Q20",
+    "strategy": "C",
+    "rank": 2,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "LUAT-36-2024-P1",
+      "page": 13,
+      "article": 12,
+      "chapter": "II",
+      "document_type": "Luật"
+    },
+    "pdf": {
+      "article": 12,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  },
+  {
+    "label_id": "MET-799821",
+    "question_id": "Q20",
+    "strategy": "C",
+    "rank": 3,
+    "source_ok": 1,
+    "page_ok": 1,
+    "article_ok": 1,
+    "chapter_ok": 1,
+    "doc_type_ok": 1,
+    "filter_ok": "NA",
+    "stored": {
+      "source_id": "ND-168-2024-P1",
+      "page": 20,
+      "article": 7,
+      "chapter": "II",
+      "document_type": "Nghị định"
+    },
+    "pdf": {
+      "article": 7,
+      "chapter": "II"
+    },
+    "later_article_headings_in_chunk": [],
+    "is_gold_hit": false
+  }
+]

@@ -1,4 +1,4 @@
-strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+﻿strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
+A,"fixed-size theo ký tự (cắt cứng, không theo cấu trúc)",500,50,"source_id,page,document_type,chapter,article",none,"baai/bge-m3 via OpenRouter (1024 chiều, cosine, exact)",Baseline: chunk cố định dễ cắt giữa ý/đoạn nên coherence thấp và evidence dễ bị tách,10/15,12/15,3/5,3/5,1022 chunk; coherence 0.4/2 (n=10); metadata 15/15; grounding 1.4/2; nạp ~$0.0013
+B,"theo cấu trúc: gộp khoản/điểm, bắt đầu chunk mới ở Chương/Mục/Điều",max 800,0,"source_id,page,document_type,chapter,article",none,"baai/bge-m3 via OpenRouter (1024 chiều, cosine, exact)",Chunk theo cấu trúc giữ trọn ý hơn A nên coherence và Hit cao hơn; thay đúng một yếu tố so với A là cách chunk (và kích thước),11/15,12/15,3/5,4/5,767 chunk; coherence 1.3/2 (n=10); metadata 15/15; grounding 1.8/2; nạp ~$0.0012. B khác A cả cách cắt lẫn kích thước tối đa (500 vs 800)
+C,giống B (dùng chung index B),max 800,0,"source_id,page,document_type,chapter,article",document_type=Luật|Nghị định chỉ khi câu hỏi có filter; câu khác không lọc,"baai/bge-m3 via OpenRouter (1024 chiều, cosine, exact)",Lọc theo document_type loại các chunk của văn bản không liên quan nên tăng Hit khi câu hỏi có filter,12/15,13/15,3/5,4/5,Chỉ khác B ở filter; filter 3/3 (dev) và 1/1 (test); chênh lệch tối đa 1 câu nên chưa kết luận được; không tốn thêm chi phí nạp

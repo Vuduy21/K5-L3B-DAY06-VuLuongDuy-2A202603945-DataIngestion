@@ -1,0 +1,1338 @@
+{
+  "accessed_at": "2026-11-14T09:28:59+00:00",
+  "snapshot_note": "Bản gốc đăng Công báo, chưa hợp nhất các sửa đổi về sau. Không suy đoán ngày hiệu lực hay tình trạng hiện hành ngoài nội dung văn bản.",
+  "page_rule": "page = số trang vật lý (1-based) trong từng file PDF, không phải số trang in trên Công báo. Trang được tính là nội dung nếu còn >= 200 ký tự sau khi NFC, bỏ dòng header 'CÔNG BÁO/Số...', gộp khoảng trắng.",
+  "totals": {
+    "physical_pages": 211,
+    "content_pages": 209,
+    "content_chars": 422969
+  },
+  "sources": [
+    {
+      "source_id": "LUAT-36-2024-P1",
+      "document_id": "LUAT-36-2024",
+      "document_type": "Luật",
+      "title": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (Công báo 977+978, Điều 1–23)",
+      "source_path_or_url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2024/6/42555/51486-1-2024977-97836-2024-qh15.pdf",
+      "local_file": "starter/data/raw/luat-36-2024-congbao-977-978.pdf",
+      "sha256": "e83b092fd1e93a63d3082424bd63e7ad99afcf39ba3729f6d82ce19fe8b33690",
+      "license_or_permission": "Văn bản quy phạm pháp luật; theo hiểu biết của tác giả không thuộc đối tượng bảo hộ quyền tác giả (Luật SHTT, Điều 15) — cần tự xác nhận. Nguồn: Công báo điện tử Chính phủ.",
+      "physical_pages": 21,
+      "content_pages": 20,
+      "content_chars": 38879,
+      "pages": [
+        {
+          "page": 1,
+          "chars": 1673,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 2,
+          "chars": 2135,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 3,
+          "chars": 2049,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 4,
+          "chars": 2511,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 5,
+          "chars": 2185,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 6,
+          "chars": 1790,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 7,
+          "chars": 1901,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 8,
+          "chars": 2212,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 9,
+          "chars": 2067,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 10,
+          "chars": 2067,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 11,
+          "chars": 1894,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 12,
+          "chars": 1693,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 13,
+          "chars": 1852,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 14,
+          "chars": 2259,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 15,
+          "chars": 1729,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 16,
+          "chars": 2033,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 17,
+          "chars": 1880,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 18,
+          "chars": 1869,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 19,
+          "chars": 1710,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 20,
+          "chars": 1370,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 21,
+          "chars": 0,
+          "counted": false,
+          "reason": "fewer than 200 chars after normalization"
+        }
+      ]
+    },
+    {
+      "source_id": "LUAT-36-2024-P2",
+      "document_id": "LUAT-36-2024",
+      "document_type": "Luật",
+      "title": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (Công báo 979+980, Điều 24–89)",
+      "source_path_or_url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2024/6/42555/51422-1-2024979-98036-2024-qh15.pdf",
+      "local_file": "starter/data/raw/luat-36-2024-congbao-979-980.pdf",
+      "sha256": "55ba152f3abe925d9a75418c3e61bc0122824db41a0d2352053dbff2c6264f8c",
+      "license_or_permission": "Văn bản quy phạm pháp luật; theo hiểu biết của tác giả không thuộc đối tượng bảo hộ quyền tác giả (Luật SHTT, Điều 15) — cần tự xác nhận. Nguồn: Công báo điện tử Chính phủ.",
+      "physical_pages": 61,
+      "content_pages": 61,
+      "content_chars": 127925,
+      "pages": [
+        {
+          "page": 1,
+          "chars": 1866,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 2,
+          "chars": 2330,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 3,
+          "chars": 2028,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 4,
+          "chars": 2097,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 5,
+          "chars": 2250,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 6,
+          "chars": 2051,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 7,
+          "chars": 1734,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 8,
+          "chars": 2101,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 9,
+          "chars": 1661,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 10,
+          "chars": 2121,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 11,
+          "chars": 2180,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 12,
+          "chars": 2223,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 13,
+          "chars": 2176,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 14,
+          "chars": 2099,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 15,
+          "chars": 1997,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 16,
+          "chars": 2105,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 17,
+          "chars": 2266,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 18,
+          "chars": 2209,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 19,
+          "chars": 2290,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 20,
+          "chars": 1803,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 21,
+          "chars": 2206,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 22,
+          "chars": 1915,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 23,
+          "chars": 2026,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 24,
+          "chars": 2058,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 25,
+          "chars": 2260,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 26,
+          "chars": 2226,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 27,
+          "chars": 2339,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 28,
+          "chars": 2135,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 29,
+          "chars": 2022,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 30,
+          "chars": 2227,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 31,
+          "chars": 2238,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 32,
+          "chars": 1994,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 33,
+          "chars": 2357,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 34,
+          "chars": 2159,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 35,
+          "chars": 1921,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 36,
+          "chars": 2360,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 37,
+          "chars": 1976,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 38,
+          "chars": 2304,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 39,
+          "chars": 1850,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 40,
+          "chars": 2070,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 41,
+          "chars": 2255,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 42,
+          "chars": 2102,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 43,
+          "chars": 2299,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 44,
+          "chars": 2421,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 45,
+          "chars": 2322,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 46,
+          "chars": 2132,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 47,
+          "chars": 2080,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 48,
+          "chars": 2030,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 49,
+          "chars": 2126,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 50,
+          "chars": 2240,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 51,
+          "chars": 1850,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 52,
+          "chars": 2252,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 53,
+          "chars": 2223,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 54,
+          "chars": 2172,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 55,
+          "chars": 1907,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 56,
+          "chars": 1674,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 57,
+          "chars": 1922,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 58,
+          "chars": 1817,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 59,
+          "chars": 2160,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 60,
+          "chars": 2036,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 61,
+          "chars": 1675,
+          "counted": true,
+          "reason": null
+        }
+      ]
+    },
+    {
+      "source_id": "ND-168-2024-P1",
+      "document_id": "ND-168-2024",
+      "document_type": "Nghị định",
+      "title": "Nghị định số 168/2024/NĐ-CP (Công báo 75+76, Điều 1–39)",
+      "source_path_or_url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2024/12/43733/54010-1-202575-76168-2024-nd-cp.pdf",
+      "local_file": "starter/data/raw/nd-168-2024-part1.pdf",
+      "sha256": "d771ae0ac2c72f03ea5d5e97f5dd463dde73d2a6be8cb0187660873f5232664d",
+      "license_or_permission": "Văn bản quy phạm pháp luật; theo hiểu biết của tác giả không thuộc đối tượng bảo hộ quyền tác giả (Luật SHTT, Điều 15) — cần tự xác nhận. Nguồn: Công báo điện tử Chính phủ.",
+      "physical_pages": 95,
+      "content_pages": 94,
+      "content_chars": 190694,
+      "pages": [
+        {
+          "page": 1,
+          "chars": 1356,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 2,
+          "chars": 1897,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 3,
+          "chars": 1745,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 4,
+          "chars": 1944,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 5,
+          "chars": 2200,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 6,
+          "chars": 2391,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 7,
+          "chars": 2050,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 8,
+          "chars": 2404,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 9,
+          "chars": 1951,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 10,
+          "chars": 2192,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 11,
+          "chars": 2229,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 12,
+          "chars": 2091,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 13,
+          "chars": 2172,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 14,
+          "chars": 1987,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 15,
+          "chars": 1887,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 16,
+          "chars": 2132,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 17,
+          "chars": 1928,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 18,
+          "chars": 1994,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 19,
+          "chars": 1952,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 20,
+          "chars": 1919,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 21,
+          "chars": 2013,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 22,
+          "chars": 1885,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 23,
+          "chars": 1882,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 24,
+          "chars": 2162,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 25,
+          "chars": 2030,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 26,
+          "chars": 2353,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 27,
+          "chars": 2085,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 28,
+          "chars": 2107,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 29,
+          "chars": 2095,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 30,
+          "chars": 2020,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 31,
+          "chars": 1745,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 32,
+          "chars": 1754,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 33,
+          "chars": 1919,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 34,
+          "chars": 1667,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 35,
+          "chars": 1846,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 36,
+          "chars": 2034,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 37,
+          "chars": 2028,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 38,
+          "chars": 1934,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 39,
+          "chars": 2092,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 40,
+          "chars": 2059,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 41,
+          "chars": 2220,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 42,
+          "chars": 2160,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 43,
+          "chars": 2149,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 44,
+          "chars": 2101,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 45,
+          "chars": 2102,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 46,
+          "chars": 1865,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 47,
+          "chars": 2243,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 48,
+          "chars": 2187,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 49,
+          "chars": 1926,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 50,
+          "chars": 2193,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 51,
+          "chars": 2174,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 52,
+          "chars": 2042,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 53,
+          "chars": 1928,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 54,
+          "chars": 1894,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 55,
+          "chars": 2020,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 56,
+          "chars": 2030,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 57,
+          "chars": 1900,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 58,
+          "chars": 2098,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 59,
+          "chars": 2048,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 60,
+          "chars": 1826,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 61,
+          "chars": 1932,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 62,
+          "chars": 1847,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 63,
+          "chars": 2175,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 64,
+          "chars": 1895,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 65,
+          "chars": 1893,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 66,
+          "chars": 2072,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 67,
+          "chars": 2083,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 68,
+          "chars": 2034,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 69,
+          "chars": 2128,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 70,
+          "chars": 2097,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 71,
+          "chars": 1970,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 72,
+          "chars": 2020,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 73,
+          "chars": 2079,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 74,
+          "chars": 2019,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 75,
+          "chars": 2210,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 76,
+          "chars": 2008,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 77,
+          "chars": 2077,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 78,
+          "chars": 2059,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 79,
+          "chars": 2284,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 80,
+          "chars": 2144,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 81,
+          "chars": 2164,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 82,
+          "chars": 2217,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 83,
+          "chars": 2327,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 84,
+          "chars": 1979,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 85,
+          "chars": 2197,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 86,
+          "chars": 2246,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 87,
+          "chars": 2170,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 88,
+          "chars": 1648,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 89,
+          "chars": 1820,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 90,
+          "chars": 2003,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 91,
+          "chars": 1886,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 92,
+          "chars": 1912,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 93,
+          "chars": 2074,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 94,
+          "chars": 1788,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 95,
+          "chars": 0,
+          "counted": false,
+          "reason": "fewer than 200 chars after normalization"
+        }
+      ]
+    },
+    {
+      "source_id": "ND-168-2024-P2",
+      "document_id": "ND-168-2024",
+      "document_type": "Nghị định",
+      "title": "Nghị định số 168/2024/NĐ-CP (Công báo 77+78, Điều 40–55)",
+      "source_path_or_url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2024/12/43733/54013-1-202577-78168-2024-nd-cp.pdf",
+      "local_file": "starter/data/raw/nd-168-2024-part2.pdf",
+      "sha256": "1d6debc31b4babd0a043a50d3732be1618734122ef00a6610c5483faad473496",
+      "license_or_permission": "Văn bản quy phạm pháp luật; theo hiểu biết của tác giả không thuộc đối tượng bảo hộ quyền tác giả (Luật SHTT, Điều 15) — cần tự xác nhận. Nguồn: Công báo điện tử Chính phủ.",
+      "physical_pages": 34,
+      "content_pages": 34,
+      "content_chars": 65471,
+      "pages": [
+        {
+          "page": 1,
+          "chars": 1699,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 2,
+          "chars": 1918,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 3,
+          "chars": 2137,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 4,
+          "chars": 2112,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 5,
+          "chars": 1781,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 6,
+          "chars": 1876,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 7,
+          "chars": 1675,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 8,
+          "chars": 1639,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 9,
+          "chars": 1476,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 10,
+          "chars": 1299,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 11,
+          "chars": 1566,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 12,
+          "chars": 1454,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 13,
+          "chars": 1662,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 14,
+          "chars": 1882,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 15,
+          "chars": 2259,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 16,
+          "chars": 2343,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 17,
+          "chars": 2315,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 18,
+          "chars": 2315,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 19,
+          "chars": 2318,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 20,
+          "chars": 2066,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 21,
+          "chars": 2212,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 22,
+          "chars": 2185,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 23,
+          "chars": 1887,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 24,
+          "chars": 2072,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 25,
+          "chars": 2268,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 26,
+          "chars": 1995,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 27,
+          "chars": 2212,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 28,
+          "chars": 2088,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 29,
+          "chars": 2123,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 30,
+          "chars": 1949,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 31,
+          "chars": 1899,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 32,
+          "chars": 1950,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 33,
+          "chars": 1863,
+          "counted": true,
+          "reason": null
+        },
+        {
+          "page": 34,
+          "chars": 976,
+          "counted": true,
+          "reason": null
+        }
+      ]
+    }
+  ]
+}
